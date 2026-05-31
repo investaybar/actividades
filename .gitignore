@@ -1,0 +1,5 @@
+# Solo se sube index.html a GitHub Pages
+# Todo lo demás se ignora
+*
+!index.html
+!.gitignore
